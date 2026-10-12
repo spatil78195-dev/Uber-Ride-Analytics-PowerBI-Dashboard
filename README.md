@@ -4,15 +4,13 @@
 An interactive **Uber Ride Analytics Dashboard** built using Microsoft Power BI to analyze ride bookings, revenue, ride status, customer ratings, driver ratings, distance and monthly performance trends.
 
 ---
-
 ## 📊 Dashboard Preview
 
-![Uber Ride Analytics Dashboard](Screenshots/dashboard-overview.png)
+![Uber Ride Analytics Dashboard](dashboard-overview.png.png)
 
 ### 🏠 Dashboard Home
 
-![Uber Dashboard Home](Screenshots/dashboard-home.png)
-
+![Uber Dashboard Home](dashboard-home.png.png)
 ---
 
 ## 🎯 Project Objective
